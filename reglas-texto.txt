@@ -1,7 +1,7 @@
 Si no tiene orejas puntiagudas entonces no es un elfo
 Si tiene pelaje o sus ojos tienen pupilas verticales entonces no es un elfo
 Si no es un elfo alto entonces es un elfo oscuro o es un elfo del bosque
-Si tiene piel oscura entonces es un elfo o es un guarda rojo
+Si tiene piel oscura entonces es un elfo oscuro o es un guarda rojo
 Si tiene piel clara y no tiene orejas puntiagudas entonces es un nordico
 Si tiene colmillos entonces es un orco o es un kahjiit
 Si es un ser humano y no es nordico o no es un guarda rojo entonces es un imperial o es un breton
