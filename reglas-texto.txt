@@ -1,10 +1,10 @@
-Si no tiene orejas puntiagudas entonces no es un elfo
-Si tiene pelaje o sus ojos tienen pupilas verticales entonces no es un elfo
+Si no tiene orejas puntiagudas entonces no es un elfo oscuro o no es un elfo alto o no es un elfo del bosque
+Si tiene pelaje o sus ojos tienen pupilas verticales entonces es un kahjiit o es un argoniano
 Si no es un elfo alto entonces es un elfo oscuro o es un elfo del bosque
 Si tiene piel oscura entonces es un elfo oscuro o es un guarda rojo
 Si tiene piel clara y no tiene orejas puntiagudas entonces es un nordico
 Si tiene colmillos entonces es un orco o es un kahjiit
-Si es un ser humano y no es nordico o no es un guarda rojo entonces es un imperial o es un breton
+Si es un ser humano y no es un nordico o no es un guarda rojo entonces es un imperial o es un breton
 Si usa magia de forma natural entonces es un breton o es un elfo oscuro o es un alto elfo
 Si es muy habil con las armas pesadas entonces es un orco o es un nordico o es un guarda rojo
-Si es muy habil al ser sigiloso entonces es un kahjiit o un elfo del bosque
+Si es muy habil al ser sigiloso entonces es un kahjiit o es un elfo del bosque

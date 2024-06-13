@@ -206,9 +206,6 @@ for linea in lineas:
     enun.append(ent)
 
 for frase in enun:
-    print(frase)
     Palabras.clear()
     Palabras = Analizador_lexico(frase)
     Analizador_sintactico(Palabras)
-
-l_reglas
